@@ -39,6 +39,7 @@ body {
 #navigationDiv {
 	background-color: rgb(242, 255, 255);
 	padding: 20px;
+
 }
 
 #footer {
@@ -77,6 +78,7 @@ body {
 
 #navigationDiv {
 	background-color: rgb(242, 255, 255);
+	clear: left;
 }
 
 #footer {
